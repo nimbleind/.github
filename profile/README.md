@@ -2,8 +2,7 @@
 
 Hi, we're Colin and Andy!
 
-<img src="https://nimbleindustries.io/wp-content/uploads/2020/08/colin_cir.png" height=60 width=60>
-<img src="https://nimbleindustries.io/wp-content/uploads/2020/08/andy_cir.png" height=60 width=60>
+<img src="https://vimtricks.com/wp-content/uploads/2020/11/dual.png" height=60>
 
 We are veteran software developers sustainably building several products and services. Using our combined 50+ years of industry experience, we’re bootstrapping a small but profitable business that carefully iterates on ideas. By sharing our experiences publicly here on this blog and across the web, we’re giving back to the community of independent hackers that has given us so much.
 
